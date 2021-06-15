@@ -11,6 +11,4 @@ This is 4th commit
 
 This is Upstram/Downstram commit
 
-this is 2nd Upstream/Downstream commit
-
-this is build,devlopment,test,release commit
+This is UPSTRAM and DOWN Stream commit
